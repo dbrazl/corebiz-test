@@ -4,7 +4,7 @@ Esse projeto teve como intenção a criação da página inicial de uma loja vir
 
 O objetivo é verificar minhas habilidades em React.js construindo páginas responsivas e consumo de API's.
 
-O site pode ser acessado por meio do seguinte - [link](http://corebiz-test.s3-website-us-east-1.amazonaws.com/).
+O site pode ser acessado por meio do seguinte [link](http://corebiz-test.s3-website-us-east-1.amazonaws.com/).
 
 <img src="https://corebiz-test.s3.amazonaws.com/apresentation.png" width="800" height="600" />
 
@@ -12,8 +12,8 @@ O site pode ser acessado por meio do seguinte - [link](http://corebiz-test.s3-we
 
 Durante a criação do software eu identifiquei um erro na API. O campo de retorno dos produtos <strong>installments</strong> retorna o valor da parcela erroneamente. O valor está com um dígito a menos que o padrão dos demais preços da API.
 
-Um exemplo é o primeiro item que retorna em seu listPrice o valor de cinco dígitos 25990 enquanto o seu valor de parcela retorna o valor total de quatro dígitos 2887.
+Um exemplo é o primeiro item que retorna em seu listPrice o valor de cinco dígitos 25990, enquanto o seu valor de parcela retorna o valor total de quatro dígitos 2887.
 
 Por não fazer muito sentido o valor total do produto parcelado ser mais barato que o valor a vista, conclui que o campo está com erro de retorno. Mesmo com esse problema, a aplicação web está consumindo o valor da parcela como é enviado. Será necessário criar uma correção para essa campo.
 
-Ademais, agradeço a - [Corebiz](https://www.corebiz.ag/en/) pela oportunidade.
+Ademais, agradeço a [Corebiz](https://www.corebiz.ag/en/) pela oportunidade.
