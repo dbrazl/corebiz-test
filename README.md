@@ -4,9 +4,9 @@ Esse projeto teve como intenção a criação da página inicial de uma loja vir
 
 O objetivo é verificar minhas habilidades em React.js construindo páginas responsivas e consumo de API's.
 
-O site pode ser acessado por meio do seguinte - [link]().
+O site pode ser acessado por meio do seguinte - [link](http://corebiz-test.s3-website-us-east-1.amazonaws.com/).
 
-<img src="./assets/images/apresentation.png" width="1500" height="1000" />
+<img src="https://corebiz-test.s3.amazonaws.com/apresentation.png" width="800" height="600" />
 
 #### Observação
 
